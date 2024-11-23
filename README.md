@@ -1,4 +1,4 @@
 # hello-world
-#About me 
+About me 
 
-My name is Kiersten King
+My name is Kiersten King. I am an avid reader and runner. I enjoy doing anything outdoors.
